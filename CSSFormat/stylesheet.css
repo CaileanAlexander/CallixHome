@@ -4,15 +4,13 @@ h1
 {
     font-size:200%;color:#000000;}
 
- header {
-        border-bottom: 20px solid #F98E01;
-    }
+
 body{margin: 10px;}
 
 img {width: 505;}
 
 h3
-{   font-size: 150%; color: black;}
+{   font-size: 125%; color: black;}
 
 ul li {display: inline;}
 ul p {display: inline;}
@@ -37,3 +35,17 @@ margin: 10px;
     color: black;
     background-color: #FFFFFF;
 }
+p{
+    font-size: 150%;
+}
+
+  .footer {
+    clear: both;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #F98E01;
+    color: white;
+    text-align: center;
+  }
+  
